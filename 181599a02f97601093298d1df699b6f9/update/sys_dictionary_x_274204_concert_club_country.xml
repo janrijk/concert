@@ -29,7 +29,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>255</max_length>
+        <max_length>254</max_length>
         <name>x_274204_concert_club</name>
         <next_element/>
         <primary>false</primary>
@@ -49,14 +49,14 @@
         <sys_created_by>jan.admin</sys_created_by>
         <sys_created_on>2021-03-31 12:41:55</sys_created_on>
         <sys_id>e19b9d282f97601093298d1df699b6bf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Country</sys_name>
         <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
         <sys_update_name>sys_dictionary_x_274204_concert_club_country</sys_update_name>
         <sys_updated_by>jan.admin</sys_updated_by>
-        <sys_updated_on>2021-03-31 12:41:55</sys_updated_on>
+        <sys_updated_on>2021-03-31 13:25:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

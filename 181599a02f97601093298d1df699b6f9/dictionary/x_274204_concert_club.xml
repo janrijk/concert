@@ -2,7 +2,7 @@
     <element label="Club" max_length="40" name="x_274204_concert_club" type="collection">
         <element attributes="edge_encryption_enabled=true" label="City" max_length="255" name="city" type="string"/>
         <element label="ClubId" max_length="40" name="clubid" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" label="Country" max_length="255" name="country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="254" name="country" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Homepage" max_length="1024" name="homepage" type="url"/>
         <element label="IsDeleted" max_length="40" name="isdeleted" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Mutation" max_length="40" name="mutation" type="glide_date_time"/>
