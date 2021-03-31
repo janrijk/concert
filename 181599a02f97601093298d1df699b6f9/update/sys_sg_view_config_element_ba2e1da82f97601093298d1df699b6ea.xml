@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>isdeleted-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:13</sys_created_on>
+        <sys_id>ba2e1da82f97601093298d1df699b6ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>isdeleted-FieldValue</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_ba2e1da82f97601093298d1df699b6ea</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:13</sys_updated_on>
+        <view_config display_value="Club Detail Screen View Config">fa2e1da82f97601093298d1df699b6dd</view_config>
+        <view_template_slot display_value="text_05">b4f4c13041275010f877183fc9b8be56</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

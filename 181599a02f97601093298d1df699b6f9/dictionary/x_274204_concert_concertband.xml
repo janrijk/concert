@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ConcertBand" max_length="40" name="x_274204_concert_concertband" type="collection">
+        <element label="BandConcertID" max_length="40" name="bandconcertid" type="integer"/>
+        <element label="BandId" max_length="40" name="bandid" type="integer"/>
+        <element label="ClubId" max_length="40" name="clubid" type="integer"/>
+        <element label="ConcertId" max_length="40" name="concertid" type="integer"/>
+        <element label="ImageId" max_length="40" name="imageid" type="integer"/>
+        <element label="IsDeleted" max_length="40" name="isdeleted" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Mutation" max_length="40" name="mutation" type="glide_date_time"/>
+    </element>
+</database>

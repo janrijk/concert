@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>bandconcertid-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:14</sys_created_on>
+        <sys_id>5f2e5da82f97601093298d1df699b63a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bandconcertid-FieldValue</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_5f2e5da82f97601093298d1df699b63a</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:14</sys_updated_on>
+        <view_config display_value="ConcertBand Detail Screen View Config">172e5da82f97601093298d1df699b637</view_config>
+        <view_template_slot display_value="text_02">6c738dbc41e35010f877183fc9b8be9a</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
