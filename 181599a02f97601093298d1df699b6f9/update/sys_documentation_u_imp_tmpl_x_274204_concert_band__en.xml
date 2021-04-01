@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="mutation" label="Mutation" language="en" table="x_274204_concert_band">
+    <sys_documentation element="" label="Imp Tmpl X 274204 Concert Band" language="en" table="u_imp_tmpl_x_274204_concert_band">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>mutation</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Mutation</label>
+            <label>Imp Tmpl X 274204 Concert Band</label>
             <language>en</language>
-            <name>x_274204_concert_band</name>
-            <plural>Mutations</plural>
+            <name>u_imp_tmpl_x_274204_concert_band</name>
+            <plural>Imp Tmpl X 274204 Concert Bands</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>jan.admin</sys_created_by>
-            <sys_created_on>2021-03-31 12:27:24</sys_created_on>
-            <sys_id>fc4899a42f97601093298d1df699b642</sys_id>
+            <sys_created_on>2021-04-01 08:57:05</sys_created_on>
+            <sys_id>a9b179342f93a01093298d1df699b60c</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Mutation</sys_name>
+            <sys_name>Imp Tmpl X 274204 Concert Band</sys_name>
             <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
             <sys_policy/>
             <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
-            <sys_update_name>sys_documentation_x_274204_concert_band_mutation_en</sys_update_name>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_274204_concert_band__en</sys_update_name>
             <sys_updated_by>jan.admin</sys_updated_by>
-            <sys_updated_on>2021-03-31 12:27:24</sys_updated_on>
+            <sys_updated_on>2021-04-01 08:57:05</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

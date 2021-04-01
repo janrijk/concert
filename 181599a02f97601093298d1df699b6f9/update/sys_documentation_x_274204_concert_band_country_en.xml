@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="country" label="Country" language="en" table="x_274204_concert_band">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <help/>
+            <hint/>
+            <label>Country</label>
+            <language>en</language>
+            <name>x_274204_concert_band</name>
+            <plural>Countries</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jan.admin</sys_created_by>
+            <sys_created_on>2021-04-01 10:01:39</sys_created_on>
+            <sys_id>a3700efc2f93a01093298d1df699b601</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Country</sys_name>
+            <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+            <sys_update_name>sys_documentation_x_274204_concert_band_country_en</sys_update_name>
+            <sys_updated_by>jan.admin</sys_updated_by>
+            <sys_updated_on>2021-04-01 10:01:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
