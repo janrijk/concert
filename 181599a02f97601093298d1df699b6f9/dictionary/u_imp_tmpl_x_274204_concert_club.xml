@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Imp Tmpl X 274204 Concert Club" max_length="40" name="u_imp_tmpl_x_274204_concert_club" type="collection">
+    <element extends="sys_import_set_row" label="Imp Tmpl X 274204 Concert Club" max_length="40" name="u_imp_tmpl_x_274204_concert_club" sizeclass="232" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="255" name="u_city" type="string"/>
         <element attributes="import_attribute_name=ClubId" label="ClubId" max_length="40" name="u_clubid" type="integer"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="254" name="u_country" type="string"/>

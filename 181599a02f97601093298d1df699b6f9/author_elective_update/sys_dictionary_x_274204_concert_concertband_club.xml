@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="club" table="x_274204_concert_concertband">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Club</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>club</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <name>x_274204_concert_concertband</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="x_274204_concert_club">x_274204_concert_club</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual>active=true^EQ</reference_qual>
+        <reference_qual_condition table="x_274204_concert_club">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-02 08:22:58</sys_created_on>
+        <sys_id>b053b6852f13e01093298d1df699b623</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Club</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_dictionary_x_274204_concert_concertband_club</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 08:22:58</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_dictionary_x_274204_concert_concertband_club</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="club" table="x_274204_concert_concertband"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Club&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;club&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;x_274204_concert_concertband&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="x_274204_concert_club"&gt;x_274204_concert_club&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual&gt;active=true^EQ&lt;/reference_qual&gt;&lt;reference_qual_condition table="x_274204_concert_club"&gt;active=true^EQ&lt;item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/reference_qual_condition&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;jan.admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-04-02 08:22:58&lt;/sys_created_on&gt;&lt;sys_id&gt;b053b6852f13e01093298d1df699b623&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Club&lt;/sys_name&gt;&lt;sys_package display_value="Concert" source="x_274204_concert"&gt;181599a02f97601093298d1df699b6f9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Concert"&gt;181599a02f97601093298d1df699b6f9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_274204_concert_concertband_club&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;jan.admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-04-02 08:22:58&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1053250646</payload_hash>
+        <record_name>ConcertBand.Club</record_name>
+        <reverted_from/>
+        <source>864f11e82f97601093298d1df699b64a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-02 08:22:59</sys_created_on>
+        <sys_id>3f737e852f13e01093298d1df699b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17891ada3580000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 08:22:59</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>77737e851a13e0101f313342e130a0f3</update_guid>
+        <update_guid_history>77737e851a13e0101f313342e130a0f3:-1053250646,91437a85d113e0103eeb5922e0dc17c7:-923595479,89f1f2455d13e010813048e526d09658:40553565</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-05 14:01:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>8c2c0ef4dc7e4b50a2e4bf9eaf503449</sys_id>
+        <sys_metadata>b053b6852f13e01093298d1df699b623</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Club</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent display_value="">71bc99682f97601093298d1df699b6f7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_274204_concert_concertband_club</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_274204_concert_concertband_club">3f737e852f13e01093298d1df699b6f3</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-05 14:01:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

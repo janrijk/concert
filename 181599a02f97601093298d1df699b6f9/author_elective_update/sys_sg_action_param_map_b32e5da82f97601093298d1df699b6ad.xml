@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="New Button (Image)">ab2e5da82f97601093298d1df699b6ab</button>
+        <item_parameter display_value="Image imageid">272e5da82f97601093298d1df699b6aa</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:16</sys_created_on>
+        <sys_id>b32e5da82f97601093298d1df699b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>272e5da82f97601093298d1df699b6aa</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b32e5da82f97601093298d1df699b6ad</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:16</sys_updated_on>
+        <ui_parameter display_value="ImageId">af2e5da82f97601093298d1df699b6ab</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_sg_action_param_map_b32e5da82f97601093298d1df699b6ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="New Button (Image)">ab2e5da82f97601093298d1df699b6ab</button><item_parameter display_value="Image imageid">272e5da82f97601093298d1df699b6aa</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>jan.admin</sys_created_by><sys_created_on>2021-03-31 12:53:16</sys_created_on><sys_id>b32e5da82f97601093298d1df699b6ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>272e5da82f97601093298d1df699b6aa</sys_name><sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package><sys_policy/><sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope><sys_update_name>sys_sg_action_param_map_b32e5da82f97601093298d1df699b6ad</sys_update_name><sys_updated_by>jan.admin</sys_updated_by><sys_updated_on>2021-03-31 12:53:16</sys_updated_on><ui_parameter display_value="ImageId">af2e5da82f97601093298d1df699b6ab</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>1373997228</payload_hash>
+        <record_name>272e5da82f97601093298d1df699b6aa</record_name>
+        <reverted_from/>
+        <source>e81599a02f97601093298d1df699b6fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:29</sys_created_on>
+        <sys_id>7e3e11e82f97601093298d1df699b61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1788858946f0000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:29</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>f63e11e8719760108c0fc1508b55801d</update_guid>
+        <update_guid_history>f63e11e8719760108c0fc1508b55801d:1373997228</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-02 14:49:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>1ce1db268c764431829ae3bbe9c1a721</sys_id>
+        <sys_metadata>b32e5da82f97601093298d1df699b6ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>272e5da82f97601093298d1df699b6aa</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_b32e5da82f97601093298d1df699b6ad</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_b32e5da82f97601093298d1df699b6ad">7e3e11e82f97601093298d1df699b61d</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 14:49:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

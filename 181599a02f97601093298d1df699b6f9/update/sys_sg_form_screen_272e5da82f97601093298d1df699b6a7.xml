@@ -30,7 +30,7 @@
         <sys_updated_on>2021-03-31 12:53:16</sys_updated_on>
         <table>x_274204_concert_image</table>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Image Detail Screen View Config">6b2e5da82f97601093298d1df699b671</view_config>
+        <view_config/>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=272e5da82f97601093298d1df699b6a7"/>
 </record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_274204_concert.festival_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>festival_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-03 12:41:24</sys_created_on>
+        <sys_id>0b38f8612f53241093298d1df699b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_274204_concert.festival_user</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_user_role_0b38f8612f53241093298d1df699b683</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-03 12:41:24</sys_updated_on>
+    </sys_user_role>
+</record_update>

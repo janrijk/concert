@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Concert ConcertBand</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:13</sys_created_on>
+        <sys_id>072e5da82f97601093298d1df699b620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Concert ConcertBand</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_sg_data_item_072e5da82f97601093298d1df699b620</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:13</sys_updated_on>
+        <table>x_274204_concert_concertband</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=072e5da82f97601093298d1df699b620"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_sg_data_item_072e5da82f97601093298d1df699b620</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>Concert ConcertBand</name><query_condition/><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>jan.admin</sys_created_by><sys_created_on>2021-03-31 12:53:13</sys_created_on><sys_id>072e5da82f97601093298d1df699b620</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Concert ConcertBand</sys_name><sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package><sys_policy/><sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope><sys_update_name>sys_sg_data_item_072e5da82f97601093298d1df699b620</sys_update_name><sys_updated_by>jan.admin</sys_updated_by><sys_updated_on>2021-03-31 12:53:13</sys_updated_on><table>x_274204_concert_concertband</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=072e5da82f97601093298d1df699b620"/></record_update>]]></payload>
+        <payload_hash>1158362834</payload_hash>
+        <record_name>Concert ConcertBand</record_name>
+        <reverted_from/>
+        <source>e81599a02f97601093298d1df699b6fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:26</sys_created_on>
+        <sys_id>1e3edda82f97601093298d1df699b677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178885888830000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:26</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>963edda8ae976010b70b47647a968677</update_guid>
+        <update_guid_history>963edda8ae976010b70b47647a968677:1158362834</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-05 14:01:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>513a0a29a38b4160ae7e78715fa92400</sys_id>
+        <sys_metadata>072e5da82f97601093298d1df699b620</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Concert ConcertBand</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_072e5da82f97601093298d1df699b620</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_072e5da82f97601093298d1df699b620">1e3edda82f97601093298d1df699b677</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-05 14:01:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

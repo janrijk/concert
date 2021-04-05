@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>Image List Screen View Config</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:15</sys_created_on>
+        <sys_id>e72e5da82f97601093298d1df699b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Image List Screen View Config</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_sg_view_config_e72e5da82f97601093298d1df699b661</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:15</sys_updated_on>
+        <table>x_274204_concert_image</table>
+        <template display_value="Applet 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="DELETE" query="documentkey=e72e5da82f97601093298d1df699b661"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_sg_view_config_e72e5da82f97601093298d1df699b661</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config"><sys_sg_view_config action="INSERT_OR_UPDATE"><active>true</active><description/><name>Image List Screen View Config</name><sys_class_name>sys_sg_view_config</sys_class_name><sys_created_by>jan.admin</sys_created_by><sys_created_on>2021-03-31 12:53:15</sys_created_on><sys_id>e72e5da82f97601093298d1df699b661</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Image List Screen View Config</sys_name><sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package><sys_policy/><sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope><sys_update_name>sys_sg_view_config_e72e5da82f97601093298d1df699b661</sys_update_name><sys_updated_by>jan.admin</sys_updated_by><sys_updated_on>2021-03-31 12:53:15</sys_updated_on><table>x_274204_concert_image</table><template display_value="Applet 01">6bb0be5c41a71010f877183fc9b8be0c</template></sys_sg_view_config><sys_translated_text action="delete_multiple" query="documentkey=e72e5da82f97601093298d1df699b661"/></record_update>]]></payload>
+        <payload_hash>132551917</payload_hash>
+        <record_name>Image List Screen View Config</record_name>
+        <reverted_from/>
+        <source>e81599a02f97601093298d1df699b6fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:30</sys_created_on>
+        <sys_id>473e11e82f97601093298d1df699b627</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178885895650000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:30</sys_updated_on>
+        <type>View Config</type>
+        <update_guid>cf3e11e8b1976010b11db404b1ca2926</update_guid>
+        <update_guid_history>cf3e11e8b1976010b11db404b1ca2926:132551917</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-02 14:49:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config">sys_sg_view_config</sys_db_object>
+        <sys_id>2aeba44d16f94348a14ce895560a14c9</sys_id>
+        <sys_metadata>e72e5da82f97601093298d1df699b661</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Image List Screen View Config</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_e72e5da82f97601093298d1df699b661</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_e72e5da82f97601093298d1df699b661">473e11e82f97601093298d1df699b627</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 14:49:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

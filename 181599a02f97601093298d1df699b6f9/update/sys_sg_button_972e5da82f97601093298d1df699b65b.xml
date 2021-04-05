@@ -67,7 +67,7 @@
         <type>write_back</type>
         <unhighlighted_icons/>
         <use_overlay>false</use_overlay>
-        <write_back_action_item display_value="Edit (ConcertBand)">1f2e5da82f97601093298d1df699b658</write_back_action_item>
+        <write_back_action_item display_value="">1f2e5da82f97601093298d1df699b658</write_back_action_item>
         <zombified_screens/>
     </sys_sg_button>
     <sys_translated_text action="delete_multiple" query="documentkey=972e5da82f97601093298d1df699b65b"/>

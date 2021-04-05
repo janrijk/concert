@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-03 12:41:26</sys_created_on>
+        <sys_id>a738f8612f53241093298d1df699b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_274204_concert_festival.x_274204_concert.festival_user</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_security_acl display_value="x_274204_concert_festival">e738f8612f53241093298d1df699b6d5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a738f8612f53241093298d1df699b6d8</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-03 12:41:26</sys_updated_on>
+        <sys_user_role display_value="x_274204_concert.festival_user" name="x_274204_concert.festival_user">0b38f8612f53241093298d1df699b683</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_security_acl_role_a738f8612f53241093298d1df699b6d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>jan.admin</sys_created_by><sys_created_on>2021-04-03 12:41:26</sys_created_on><sys_id>a738f8612f53241093298d1df699b6d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_274204_concert_festival.x_274204_concert.festival_user</sys_name><sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package><sys_policy/><sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope><sys_security_acl display_value="x_274204_concert_festival">e738f8612f53241093298d1df699b6d5</sys_security_acl><sys_update_name>sys_security_acl_role_a738f8612f53241093298d1df699b6d8</sys_update_name><sys_updated_by>jan.admin</sys_updated_by><sys_updated_on>2021-04-03 12:41:26</sys_updated_on><sys_user_role display_value="x_274204_concert.festival_user" name="x_274204_concert.festival_user">0b38f8612f53241093298d1df699b683</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1699151393</payload_hash>
+        <record_name>x_274204_concert_festival.x_274204_concert.festival_user</record_name>
+        <reverted_from/>
+        <source>864f11e82f97601093298d1df699b64a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-03 12:41:26</sys_created_on>
+        <sys_id>2338f8612f53241093298d1df699b6db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17897c09d450000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-03 12:41:26</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>6b38f86163532410118775090ccb33da</update_guid>
+        <update_guid_history>6b38f86163532410118775090ccb33da:-1699151393</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_274204_concert_festival.x_274204_concert.festival_user">cbec74a52f53241093298d1df699b6e7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-03 13:01:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4d1e9efb7999461ea0d573ad1050a604</sys_id>
+        <sys_metadata>a738f8612f53241093298d1df699b6d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_274204_concert_festival.x_274204_concert.festival_user</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_a738f8612f53241093298d1df699b6d8</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_a738f8612f53241093298d1df699b6d8">2338f8612f53241093298d1df699b6db</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-03 13:01:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

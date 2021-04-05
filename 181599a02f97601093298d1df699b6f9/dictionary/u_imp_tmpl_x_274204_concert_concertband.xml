@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Imp Tmpl X 274204 Concert Concertband" max_length="40" name="u_imp_tmpl_x_274204_concert_concertband" type="collection">
+    <element extends="sys_import_set_row" label="Imp Tmpl X 274204 Concert Concertband" max_length="40" name="u_imp_tmpl_x_274204_concert_concertband" sizeclass="2988" type="collection">
         <element attributes="import_attribute_name=BandConcertId" label="BandConcertId" max_length="40" name="u_bandconcertid" type="integer"/>
         <element attributes="import_attribute_name=BandId" label="BandId" max_length="40" name="u_bandid" type="integer"/>
         <element attributes="import_attribute_name=ClubId" label="ClubId" max_length="40" name="u_clubid" type="integer"/>

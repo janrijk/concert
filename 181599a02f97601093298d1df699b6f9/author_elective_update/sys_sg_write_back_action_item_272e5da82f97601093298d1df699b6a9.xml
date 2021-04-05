@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Image)</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:16</sys_created_on>
+        <sys_id>272e5da82f97601093298d1df699b6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Image)</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_272e5da82f97601093298d1df699b6a9</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:16</sys_updated_on>
+        <table>x_274204_concert_image</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=272e5da82f97601093298d1df699b6a9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_sg_write_back_action_item_272e5da82f97601093298d1df699b6a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description/><execution_script/><name>Delete (Image)</name><parameter_screen/><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>jan.admin</sys_created_by><sys_created_on>2021-03-31 12:53:16</sys_created_on><sys_id>272e5da82f97601093298d1df699b6a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete (Image)</sys_name><sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package><sys_policy/><sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope><sys_update_name>sys_sg_write_back_action_item_272e5da82f97601093298d1df699b6a9</sys_update_name><sys_updated_by>jan.admin</sys_updated_by><sys_updated_on>2021-03-31 12:53:16</sys_updated_on><table>x_274204_concert_image</table><template/><type>delete</type><use_current_record_as_condition>true</use_current_record_as_condition><use_fields_for_ref_lookup>false</use_fields_for_ref_lookup></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=272e5da82f97601093298d1df699b6a9"/></record_update>]]></payload>
+        <payload_hash>-1478610638</payload_hash>
+        <record_name>Delete (Image)</record_name>
+        <reverted_from/>
+        <source>e81599a02f97601093298d1df699b6fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:29</sys_created_on>
+        <sys_id>3e3edda82f97601093298d1df699b6fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1788858927a0000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:29</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>b63edda84a97601013a753bbf88f38fc</update_guid>
+        <update_guid_history>b63edda84a97601013a753bbf88f38fc:-1478610638</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-02 14:49:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>1359276f9f1a4b1487e847a63a4a4d90</sys_id>
+        <sys_metadata>272e5da82f97601093298d1df699b6a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Image)</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_272e5da82f97601093298d1df699b6a9</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_272e5da82f97601093298d1df699b6a9">3e3edda82f97601093298d1df699b6fc</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 14:49:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

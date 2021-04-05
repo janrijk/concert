@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="DELETE">
+        <condition_order/>
+        <datasource_table>x_274204_concert_image</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Image Form Screen">272e5da82f97601093298d1df699b6a7</embedded_screen>
+        <item_view/>
+        <name>Image master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:16</sys_created_on>
+        <sys_id>2b2e5da82f97601093298d1df699b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Image master_item</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_sg_master_item_2b2e5da82f97601093298d1df699b6a8</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:16</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config/>
+    </sys_sg_master_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_sg_master_item_2b2e5da82f97601093298d1df699b6a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item"><sys_sg_master_item action="INSERT_OR_UPDATE"><condition_order/><datasource_table>x_274204_concert_image</datasource_table><datasource_table_condition/><embedded_screen display_value="Image Form Screen">272e5da82f97601093298d1df699b6a7</embedded_screen><item_view/><name>Image master_item</name><sys_class_name>sys_sg_master_item</sys_class_name><sys_created_by>jan.admin</sys_created_by><sys_created_on>2021-03-31 12:53:16</sys_created_on><sys_id>2b2e5da82f97601093298d1df699b6a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Image master_item</sys_name><sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package><sys_policy/><sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope><sys_update_name>sys_sg_master_item_2b2e5da82f97601093298d1df699b6a8</sys_update_name><sys_updated_by>jan.admin</sys_updated_by><sys_updated_on>2021-03-31 12:53:16</sys_updated_on><use_view_config>true</use_view_config><view_config/></sys_sg_master_item></record_update>]]></payload>
+        <payload_hash>941569518</payload_hash>
+        <record_name>Image master_item</record_name>
+        <reverted_from/>
+        <source>864f11e82f97601093298d1df699b64a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-02 14:49:08</sys_created_on>
+        <sys_id>d4eb48552f17e01093298d1df699b62b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178930f2c0b0000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 14:49:08</sys_updated_on>
+        <type>Item Configuration</type>
+        <update_guid>54eb4855ee17e010c7e5d2d13e9a932b</update_guid>
+        <update_guid_history>54eb4855ee17e010c7e5d2d13e9a932b:0,433e11e895976010fd82581221bd762e:-420481812</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-02 14:49:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_master_item">sys_sg_master_item</sys_db_object>
+        <sys_id>c4f95163fc3f4db09c35a9b434325621</sys_id>
+        <sys_metadata>2b2e5da82f97601093298d1df699b6a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Image master_item</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_sg_master_item_2b2e5da82f97601093298d1df699b6a8</sys_update_name>
+        <sys_update_version display_value="sys_sg_master_item_2b2e5da82f97601093298d1df699b6a8">d4eb48552f17e01093298d1df699b62b</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 14:49:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Image" max_length="40" name="x_274204_concert_image" sizeclass="0" type="collection">
-        <element label="ImageId" max_length="40" name="imageid" type="integer"/>
-        <element label="IsDeleted" max_length="40" name="isdeleted" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" label="Mutation" max_length="40" name="mutation" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Name" max_length="255" name="name" type="string"/>
-    </element>
-</database>

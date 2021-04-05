@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_274204_concert_concert" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Concert - Default view" name="x_274204_concert_concert" related_list="NULL" sys_domain="global" view="Default view">b38e9b0a2f9f641093298d1df699b643</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>jan.admin</sys_created_by>
+            <sys_created_on>2021-04-05 14:05:02</sys_created_on>
+            <sys_id>338e9b0a2f9f641093298d1df699b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jan.admin</sys_updated_by>
+            <sys_updated_on>2021-04-05 14:05:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Concert - Default view</calculated_name>
+            <filter/>
+            <name>x_274204_concert_concert</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>jan.admin</sys_created_by>
+            <sys_created_on>2021-04-05 14:05:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b38e9b0a2f9f641093298d1df699b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Concert - Default view</sys_name>
+            <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+            <sys_update_name>sys_ui_related_x_274204_concert_concert_null</sys_update_name>
+            <sys_updated_by>jan.admin</sys_updated_by>
+            <sys_updated_on>2021-04-05 14:05:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

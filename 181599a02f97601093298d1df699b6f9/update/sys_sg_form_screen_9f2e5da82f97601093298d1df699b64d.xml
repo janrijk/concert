@@ -30,7 +30,7 @@
         <sys_updated_on>2021-03-31 12:53:15</sys_updated_on>
         <table>x_274204_concert_concertband</table>
         <use_view_config>true</use_view_config>
-        <view_config display_value="ConcertBand Detail Screen View Config">172e5da82f97601093298d1df699b637</view_config>
+        <view_config/>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=9f2e5da82f97601093298d1df699b64d"/>
 </record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>isdeleted-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:16</sys_created_on>
+        <sys_id>eb2e5da82f97601093298d1df699b6a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>isdeleted-FieldLabel</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_eb2e5da82f97601093298d1df699b6a0</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:16</sys_updated_on>
+        <view_config display_value="Image Detail Screen View Config">6b2e5da82f97601093298d1df699b671</view_config>
+        <view_template_slot display_value="text_04">5b4449fc41e35010f877183fc9b8be74</view_template_slot>
+    </sys_sg_view_config_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_sg_view_config_element_eb2e5da82f97601093298d1df699b6a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element"><sys_sg_view_config_element action="INSERT_OR_UPDATE"><name>isdeleted-FieldLabel</name><sys_class_name>sys_sg_view_config_element</sys_class_name><sys_created_by>jan.admin</sys_created_by><sys_created_on>2021-03-31 12:53:16</sys_created_on><sys_id>eb2e5da82f97601093298d1df699b6a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>isdeleted-FieldLabel</sys_name><sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package><sys_policy/><sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope><sys_update_name>sys_sg_view_config_element_eb2e5da82f97601093298d1df699b6a0</sys_update_name><sys_updated_by>jan.admin</sys_updated_by><sys_updated_on>2021-03-31 12:53:16</sys_updated_on><view_config display_value="Image Detail Screen View Config">6b2e5da82f97601093298d1df699b671</view_config><view_template_slot display_value="text_04">5b4449fc41e35010f877183fc9b8be74</view_template_slot></sys_sg_view_config_element></record_update>]]></payload>
+        <payload_hash>1067438383</payload_hash>
+        <record_name>isdeleted-FieldLabel</record_name>
+        <reverted_from/>
+        <source>e81599a02f97601093298d1df699b6fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-03-31 12:53:16</sys_created_on>
+        <sys_id>af2e5da82f97601093298d1df699b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17888585f830000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 12:53:16</sys_updated_on>
+        <type>View Config Element</type>
+        <update_guid>e72e5da8e3976010bcf058dd5d6b89a1</update_guid>
+        <update_guid_history>e72e5da8e3976010bcf058dd5d6b89a1:1067438383</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-02 14:49:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>009f0121f35141de80428e816cfd6179</sys_id>
+        <sys_metadata>eb2e5da82f97601093298d1df699b6a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>isdeleted-FieldLabel</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_eb2e5da82f97601093298d1df699b6a0</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_eb2e5da82f97601093298d1df699b6a0">af2e5da82f97601093298d1df699b6a1</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 14:49:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
