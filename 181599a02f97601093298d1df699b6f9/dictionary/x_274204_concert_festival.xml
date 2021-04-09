@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Festival" max_length="40" name="x_274204_concert_festival" sizeclass="253" type="collection">
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
-        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="End date" max_length="40" name="end_date" type="glide_date"/>
         <element label="Name" max_length="255" name="name" type="string"/>
         <element label="Note" max_length="1000" name="note" type="string"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
         <element label="Website" max_length="1024" name="website" type="url"/>
     </element>
 </database>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>ConcertTemp</name>
+        <order/>
+        <roles>x_274204_concert.concerttemp_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-05 06:55:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c44c3d8a2f5b641093298d1df699b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ConcertTemp</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_ui_application_c44c3d8a2f5b641093298d1df699b678</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-05 06:55:32</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_ui_application_c44c3d8a2f5b641093298d1df699b678</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>ConcertTemp</name><order/><roles>x_274204_concert.concerttemp_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>jan.admin</sys_created_by><sys_created_on>2021-04-05 06:55:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c44c3d8a2f5b641093298d1df699b678</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ConcertTemp</sys_name><sys_overrides/><sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package><sys_policy/><sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope><sys_update_name>sys_ui_application_c44c3d8a2f5b641093298d1df699b678</sys_update_name><sys_updated_by>jan.admin</sys_updated_by><sys_updated_on>2021-04-05 06:55:32</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>-664277904</payload_hash>
+        <record_name>ConcertTemp</record_name>
+        <reverted_from/>
+        <source>864f11e82f97601093298d1df699b64a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-05 06:55:32</sys_created_on>
+        <sys_id>884c3d8a2f5b641093298d1df699b67a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178a0d0a8720000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-05 06:55:32</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>c04c3d8a785b6410cb17426129a54c7a</update_guid>
+        <update_guid_history>c04c3d8a785b6410cb17426129a54c7a:-664277904</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-08 16:52:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>a7ae66b08e274cda8367f1ff52251ed9</sys_id>
+        <sys_metadata>c44c3d8a2f5b641093298d1df699b678</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ConcertTemp</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_ui_application_c44c3d8a2f5b641093298d1df699b678</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_c44c3d8a2f5b641093298d1df699b678">884c3d8a2f5b641093298d1df699b67a</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-08 16:52:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
