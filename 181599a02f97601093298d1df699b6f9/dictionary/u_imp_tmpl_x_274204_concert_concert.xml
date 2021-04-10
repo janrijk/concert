@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Imp Tmpl X 274204 Concert Concert" max_length="40" name="u_imp_tmpl_x_274204_concert_concert" sizeclass="773" type="collection">
+    <element extends="sys_import_set_row" label="Imp Tmpl X 274204 Concert Concert" max_length="40" name="u_imp_tmpl_x_274204_concert_concert" sizeclass="0" type="collection">
         <element attributes="import_attribute_name=ConcertId" label="ConcertId" max_length="40" name="u_concertid" type="integer"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=IsDeleted" label="IsDeleted" max_length="40" name="u_isdeleted" type="string"/>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_274204_concert.JR_ConcertUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>Script include to get details for entities in the Concert application:&#13;
+- getClubDetails</description>
+        <name>JR_ConcertUtils</name>
+        <script><![CDATA[var JR_ConcertUtils = Class.create();
+JR_ConcertUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    getClubDetails: function() {
+	
+		var clubId = this.getParameter('sysparm_clubid');
+        var clubs = [];
+
+		gs.info('sys_id = ' + clubId);
+		
+        var grClub = new GlideRecord('x_274204_concert_club');
+        grClub.addQuery('sys_id', clubId);
+        grClub.query();
+
+        while (grClub.next()) {
+			
+			var club = {};
+			club.name = grClub.name.toString();
+			club.city = grClub.city.toString();
+			club.country = grClub.country.toString();
+			club.website = grClub.website.toString();
+			club.active = grClub.active;
+		
+			clubs.push(club);
+		}
+		
+		//Debug
+		//gs.info('str=' + JSON.stringify(clubs));
+		
+		return JSON.stringify(clubs);
+    },
+
+    type: 'JR_ConcertUtils'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-10 06:34:22</sys_created_on>
+        <sys_id>a054e3ab2f1b601093298d1df699b609</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>JR_ConcertUtils</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_update_name>sys_script_include_a054e3ab2f1b601093298d1df699b609</sys_update_name>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-10 13:58:35</sys_updated_on>
+    </sys_script_include>
+</record_update>
