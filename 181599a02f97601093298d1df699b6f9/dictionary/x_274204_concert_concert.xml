@@ -9,6 +9,7 @@
         <element label="Festival" max_length="32" name="festival" reference="x_274204_concert_festival" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Note" max_length="1000" name="note" type="string"/>
         <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="Photos taken" max_length="40" name="photos_taken" type="boolean"/>
         <element label="Rating" max_length="40" name="rating" type="integer"/>
         <element label="Website" max_length="1024" name="website" type="url"/>
         <index name="index">

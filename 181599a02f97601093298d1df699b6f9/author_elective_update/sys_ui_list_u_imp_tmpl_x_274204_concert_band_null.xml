@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_274204_concert_band" version="2" view="">
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_imp_tmpl_x_274204_concert_band</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>0ab179342f93a01093298d1df699b65f</sys_id>
+            <sys_mod_count/>
+            <sys_name>u_imp_tmpl_x_274204_concert_band</sys_name>
+            <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2021-04-01 09:55:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concert">181599a02f97601093298d1df699b6f9</application>
+        <file_path/>
+        <instance_id>f998f640dbf8ff004d2bac44d4961989</instance_id>
+        <instance_name>dev79849</instance_name>
+        <name>sys_ui_list_u_imp_tmpl_x_274204_concert_band_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_274204_concert_band" version="2" view=""><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_imp_tmpl_x_274204_concert_band</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>0ab179342f93a01093298d1df699b65f</sys_id><sys_mod_count/><sys_name>u_imp_tmpl_x_274204_concert_band</sys_name><sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package><sys_policy/><sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2021-04-01 09:55:16</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1860599144</payload_hash>
+        <record_name>Imp Tmpl X 274204 Concert Band</record_name>
+        <reverted_from/>
+        <source>864f11e82f97601093298d1df699b64a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-01 09:55:17</sys_created_on>
+        <sys_id>4e0ff1bc2f93a01093298d1df699b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1788cdbc7a30000001</sys_recorded_at>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 09:55:17</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>c60ff1bc7b93a010d99c5fdde3567d05</update_guid>
+        <update_guid_history>c60ff1bc7b93a010d99c5fdde3567d05:1860599144,020fb1bcb693a010368bd071721b98e4:371508437</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jan.admin</sys_created_by>
+        <sys_created_on>2021-04-12 17:33:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>953d0073ba1643289ab8457b4b151c41</sys_id>
+        <sys_metadata>78fa08a02f23201093298d1df699b6c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_x_274204_concert_band</sys_name>
+        <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
+        <sys_parent display_value="">61b179342f93a01093298d1df699b606</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
+        <sys_scope_delete display_value="">154b55e754eb4914a0f27f0bdc4ecc90</sys_scope_delete>
+        <sys_update_name>sys_ui_list_u_imp_tmpl_x_274204_concert_band_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_u_imp_tmpl_x_274204_concert_band_null">4e0ff1bc2f93a01093298d1df699b605</sys_update_version>
+        <sys_updated_by>jan.admin</sys_updated_by>
+        <sys_updated_on>2021-04-12 17:33:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
