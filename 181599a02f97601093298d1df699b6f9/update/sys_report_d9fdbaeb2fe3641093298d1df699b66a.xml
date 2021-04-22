@@ -27,7 +27,7 @@
         <chart_title_y_position>0</chart_title_y_position>
         <chart_width>600</chart_width>
         <color display_value="Default Color">de699435d7033100b4964ebfae610331</color>
-        <color_palette display_value="Blues dark to light (9)">fae0dfa9d7100200b96d45a3ce61037a</color_palette>
+        <color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette>
         <colors/>
         <column/>
         <compute_percent>aggregate</compute_percent>
@@ -36,7 +36,7 @@
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
         <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
-        <decimal_precision>0</decimal_precision>
+        <decimal_precision>2</decimal_precision>
         <description/>
         <direction>minimize</direction>
         <display_column_lines>false</display_column_lines>
@@ -45,7 +45,7 @@
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field/>
+        <field>band</field>
         <field_list>number,date,band,club,city,country,festival,rating,sys_created_on</field_list>
         <filter/>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
@@ -73,7 +73,7 @@
         <map_source/>
         <orderby_list/>
         <other_threshold>-2</other_threshold>
-        <others>true</others>
+        <others>false</others>
         <page_hdrftr/>
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
@@ -86,7 +86,7 @@
         <sc_stackby_variable_id/>
         <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
         <series_name_text/>
-        <set_color>one_color</set_color>
+        <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
         <show_chart_data_label>false</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
@@ -94,7 +94,7 @@
         <show_data_label_position_middle>false</show_data_label_position_middle>
         <show_empty>false</show_empty>
         <show_geographical_label>false</show_geographical_label>
-        <show_legend>false</show_legend>
+        <show_legend>true</show_legend>
         <show_legend_border>false</show_legend_border>
         <show_marker>false</show_marker>
         <show_zero>false</show_zero>
@@ -104,23 +104,23 @@
         <sumfield/>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>jan.admin</sys_created_by>
-        <sys_created_on>2021-04-17 14:37:56</sys_created_on>
-        <sys_id>da299d022fef201093298d1df699b61c</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Concerts per Year</sys_name>
+        <sys_created_on>2021-04-22 13:49:12</sys_created_on>
+        <sys_id>d9fdbaeb2fe3641093298d1df699b66a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Concerts per Band</sys_name>
         <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
-        <sys_update_name>sys_report_da299d022fef201093298d1df699b61c</sys_update_name>
+        <sys_update_name>sys_report_d9fdbaeb2fe3641093298d1df699b66a</sys_update_name>
         <sys_updated_by>jan.admin</sys_updated_by>
-        <sys_updated_on>2021-04-22 13:51:07</sys_updated_on>
+        <sys_updated_on>2021-04-22 13:54:18</sys_updated_on>
         <table>x_274204_concert_concert</table>
-        <title>Concerts per Year</title>
+        <title>Concerts per Band</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field>date</trend_field>
-        <type>line_bar</type>
+        <trend_field/>
+        <type>bar</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
