@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="live_feed=true" label="Concert" max_length="40" name="x_274204_concert_concert" sizeclass="3430" type="collection">
+    <element attributes="live_feed=true" label="Concert" max_length="40" name="x_274204_concert_concert" sizeclass="3844" type="collection">
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Band" max_length="32" name="band" reference="x_274204_concert_band" type="reference"/>
         <element label="City" max_length="255" name="city" read_only="true" type="string"/>
