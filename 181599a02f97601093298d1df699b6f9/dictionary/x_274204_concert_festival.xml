@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Festival" max_length="40" name="x_274204_concert_festival" sizeclass="404" type="collection">
+    <element label="Festival" max_length="40" name="x_274204_concert_festival" sizeclass="429" type="collection">
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="City" max_length="255" name="city" type="string"/>
         <element label="Country" max_length="255" name="country" type="string"/>
