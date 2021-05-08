@@ -11,6 +11,17 @@
         <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
         <element label="Photos taken" max_length="40" name="photos_taken" type="boolean"/>
         <element label="Rating" max_length="40" name="rating" type="integer"/>
+        <element choice="3" label="Source" max_length="40" name="source" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+                <element inactive_on_update="false" label="Original" sequence="1" value="Original"/>
+                <element inactive_on_update="false" label="Photos" sequence="2" value="Photos"/>
+                <element inactive_on_update="false" label="Ticket" sequence="3" value="Ticket"/>
+                <element inactive_on_update="false" label="Setlist" sequence="4" value="Setlist"/>
+                <element inactive_on_update="false" label="Memory" sequence="5" value="Memory"/>
+                <element inactive_on_update="false" label="Other" sequence="6" value="Other"/>
+            </choice>
+        </element>
         <element label="Website" max_length="1024" name="website" type="url"/>
         <index name="index">
             <element name="festival"/>
