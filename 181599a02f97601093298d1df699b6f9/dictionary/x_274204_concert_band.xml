@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Band" max_length="40" name="x_274204_concert_band" sizeclass="3448" type="collection">
+    <element label="Band" max_length="40" name="x_274204_concert_band" sizeclass="3582" type="collection">
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="City" max_length="255" name="city" type="string"/>
         <element label="Country" max_length="255" name="country" type="string"/>
