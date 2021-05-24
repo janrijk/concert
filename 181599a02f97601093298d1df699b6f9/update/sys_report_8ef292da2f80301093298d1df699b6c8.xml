@@ -45,7 +45,7 @@
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field/>
+        <field>country</field>
         <field_list>number,date,band,club,city,country,festival,note,source,photos_taken</field_list>
         <filter/>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
@@ -86,7 +86,7 @@
         <sc_stackby_variable_id/>
         <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
         <series_name_text/>
-        <set_color>one_color</set_color>
+        <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
         <show_chart_data_label>false</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
@@ -104,23 +104,23 @@
         <sumfield/>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>jan.admin</sys_created_by>
-        <sys_created_on>2021-05-13 09:24:17</sys_created_on>
-        <sys_id>a9ba86162f80301093298d1df699b6c9</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Concerts Created per Year</sys_name>
+        <sys_created_on>2021-05-13 10:00:22</sys_created_on>
+        <sys_id>8ef292da2f80301093298d1df699b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Concerts per Country</sys_name>
         <sys_package display_value="Concert" source="x_274204_concert">181599a02f97601093298d1df699b6f9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Concert">181599a02f97601093298d1df699b6f9</sys_scope>
-        <sys_update_name>sys_report_a9ba86162f80301093298d1df699b6c9</sys_update_name>
+        <sys_update_name>sys_report_8ef292da2f80301093298d1df699b6c8</sys_update_name>
         <sys_updated_by>jan.admin</sys_updated_by>
-        <sys_updated_on>2021-05-18 07:35:23</sys_updated_on>
+        <sys_updated_on>2021-05-13 10:00:22</sys_updated_on>
         <table>x_274204_concert_concert</table>
-        <title>Concerts Created per Year</title>
+        <title>Concerts per Country</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field>sys_created_on</trend_field>
-        <type>line_bar</type>
+        <trend_field/>
+        <type>bar</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
